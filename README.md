@@ -42,8 +42,6 @@ The data was preprocessed and transformed using Power Query to ensure accuracy a
 
 Focus: Understanding consumption patterns
 
-
-
 Nutrient totals and distribution
 
 Meal-wise calorie contribution
@@ -52,6 +50,7 @@ Food item analysis
 
 Nutritional balance insights
 
+<img width="1305" height="729" alt="Snapshot Of Dashboard 1" src="https://github.com/user-attachments/assets/7d584d1b-8c36-4f42-8e46-022a469fa75c" />
 
 
 **🔹 Nutrients and Diseases**
@@ -66,6 +65,9 @@ Macronutrients by activity level
 
 Age-based trends
 
+<img width="1301" height="733" alt="Snapshot Of Dashboard 2" src="https://github.com/user-attachments/assets/f535bf56-87dd-4de7-8c75-484ec52e6478" />
+
+
 **🔹 Averages by Breakfast Suggestions**
 
 Focus: Evaluating breakfast quality
@@ -78,6 +80,9 @@ Protein efficiency
 
 Impact on BMI and activity
 
+<img width="1311" height="737" alt="Snapshot Of Dashboard 3" src="https://github.com/user-attachments/assets/72011114-db28-4b52-8eda-cc6e950025a1" />
+
+
 **🔹 Lifestyle & Nutrition Impact**
 
 Focus: Impact of lifestyle on health
@@ -89,6 +94,9 @@ Calorie target adherence
 Gender comparison
 
 Nutrient distribution by diet
+
+<img width="1304" height="731" alt="Snapshot Of Dashboard 4" src="https://github.com/user-attachments/assets/f3810a2f-6f71-4782-bdb9-dcc649c6129d" />
+
 
 **5. Features / Highlights**
 
@@ -141,6 +149,10 @@ Sedentary individuals tend to exceed calorie targets more frequently, leading to
 • Encourage activity-based calorie targets
 
 • Promote balanced macronutrient intake
+
+**8. Conclusion**
+
+This project demonstrates that data analytics is not just about tracking consumption trends — it is about translating customer behavior into actionable strategies that improve both business outcomes and consumer well-being.
 
 
 
