@@ -1,17 +1,14 @@
-# FoodTrends-Understanding-Customer-Preferences-Project
-** Food Trends Analytics: Understanding Customer Preferences
-1. Title**
-   
-**Food Trends Analytics: Lifestyle, Nutrition & Customer Preference Dashboard**
-   
+# FoodTrends-Understanding-Customer-Preferences-in-FB-Project
+
+
 An interactive Power BI dashboard designed to analyze food consumption patterns, nutritional balance, and lifestyle impact—helping uncover actionable insights about customer dietary behavior and health trends.
 
-**2. Short Description / Purpose**
+**1. Short Description / Purpose**
  
 This project is a comprehensive data visualization and analytics solution built using Power BI to explore how dietary preferences, lifestyle habits, and nutritional intake influence overall health.
 It enables users to identify trends, detect imbalances, and make data-driven decisions related to food and wellness.
 
-**3. Data Source**
+**2. Data Source**
    
 The dataset used in this project includes structured information related to:
 
@@ -27,7 +24,7 @@ The dataset used in this project includes structured information related to:
 
 The data was preprocessed and transformed using Power Query to ensure accuracy and consistency.
 
-**4. Tech Stack**
+**3. Tech Stack**
    
 • Power BI Desktop – Dashboard development and visualization
 
@@ -39,11 +36,13 @@ The data was preprocessed and transformed using Power Query to ensure accuracy a
 
 • Excel Dataset – Source data
 
-**5. Dashboard Structure & Modules**
+**4. Dashboard Structure & Modules**
    
 **🔹 Dietary Preferences and Averages**
 
 Focus: Understanding consumption patterns
+
+
 
 Nutrient totals and distribution
 
@@ -52,6 +51,8 @@ Meal-wise calorie contribution
 Food item analysis
 
 Nutritional balance insights
+
+
 
 **🔹 Nutrients and Diseases**
 
@@ -89,7 +90,7 @@ Gender comparison
 
 Nutrient distribution by diet
 
-**6. Features / Highlights**
+**5. Features / Highlights**
 
 • Interactive and dynamic dashboards
 
@@ -103,7 +104,7 @@ Nutrient distribution by diet
 
 • Real-world analytical approach (Problem → KPI → Insight → Action)
 
-**7. Key Insights**
+**6. Key Insights**
 
 • Higher activity levels correlate with higher calorie intake but better BMI control
 
@@ -115,7 +116,7 @@ Nutrient distribution by diet
 
 • Poor nutritional balance is linked to higher health risk categories
 
-**8. Example Use Case**
+**7. Example Use Case**
 
 **Business Question:**
 
