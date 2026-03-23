@@ -24,6 +24,12 @@ The dataset used in this project includes structured information related to:
 
 The data was preprocessed and transformed using Power Query to ensure accuracy and consistency.
 
+  Link for the datasets:
+
+   1. https://www.kaggle.com/datasets/adilshamim8/daily-food-and-nutrition-dataset/data
+   
+   2. https://www.kaggle.com/datasets/bitanianielsen/nutrition-daily-meals-in-diseases-cases
+
 **3. Tech Stack**
    
 • Power BI Desktop – Dashboard development and visualization
